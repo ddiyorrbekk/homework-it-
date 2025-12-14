@@ -1,26 +1,36 @@
 # Отчет по практической работе №7
+
 ## Выполненные шаги:
-1. Установлен Git для Windows.
-2. Выполнена начальная настройка Git (имя и email).
-3. Создана папка для проекта и инициализирован локальный репозиторий.
+
+### 1. Установка и настройка Git
+- Установлен Git для Windows
+- Выполнена начальная настройка Git (имя и email)
+- Создана папка для проекта
+
+### 2. Локальный репозиторий
+- Инициализирован репозиторий (git init)
+- Создан файл отчета report.md
+- Выполнен первый коммит
+
+### 3. Работа с ветками
+- Создана ветка add-details
+- Внесены изменения в отчёт
+- Зафиксированы изменения коммитом
+- Выполнено слияние с веткой master
 
 ### 4. Работа с GitHub
-- Создал репозиторий на GitHub
-- Отправил код командой git push
+- Создан репозиторий 'homework-it-' на GitHub
+- Локальный репозиторий привязан к удалённому
+- Код отправлен на GitHub (git push)
 
-
-### 4. Работа с GitHub
-- Создал репозиторий 'homework-it-' на GitHub
-- Привязал локальный репозиторий командой: git remote add origin https://github.com/ddiyorrbekk/homework-it-.git
-- Отправил код на GitHub: git push -u origin master
-
-### 5. Статический сайт на GitHub Pages
-- Создал файлы index.html и style.css для статического сайта
-- Добавил их в репозиторий и отправил на GitHub
-- Включил GitHub Pages в настройках репозитория (Settings → Pages → ветка master)
-- Сайт доступен по адресу: https://ddiyorrbekk.github.io/homework-it-/
+### 5. Размещение статического сайта
+- Созданы файлы index.html и style.css
+- Файлы отправлены на GitHub
+- Включён GitHub Pages (ветка master)
+- Сайт: https://ddiyorrbekk.github.io/homework-it-/
 
 ### 6. Завершение работы
 - Все пункты практической работы выполнены
 - Отчёт готов и сохранён в репозитории
-- Репозиторий на GitHub: https://github.com/ddiyorrbekk/homework-it-
+- Репозиторий: https://github.com/ddiyorrbekk/homework-it-
+- Сайт: https://ddiyorrbekk.github.io/homework-it-/
